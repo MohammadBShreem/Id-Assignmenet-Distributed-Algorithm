@@ -126,6 +126,9 @@ Initializes the object and registers message types with their respective handler
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d6d8eb3b-75ec-447e-96de-dec795c773bf"></br>
 </div>
-  
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b6c7b90d-6b49-407d-9897-b75e2344534d"></br>
+</div>
 
 ---
